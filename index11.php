@@ -22,3 +22,7 @@
 	echo 'c2';
 	echo 'c3';
 	echo 'c4';	
+	
+	echo 'd1';
+	echo 'd2';	
+	echo 'd3';
