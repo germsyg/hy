@@ -5,3 +5,4 @@
 
 	echo 'b1';
 	echo 'dev';
+	echo 'dev2';
