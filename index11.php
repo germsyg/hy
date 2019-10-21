@@ -25,3 +25,4 @@
 	
 	echo 'd1';
 	echo 'd2';	
+	echo 'd3';
