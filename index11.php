@@ -8,6 +8,7 @@
 	echo 'dev2';
 	echo 'dev5';
 	echo 'dev6';
+	echo 'dev7';
 	
 
 
